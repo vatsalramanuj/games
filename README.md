@@ -75,7 +75,3 @@ python game.py
 
 - `game.py`: Main game file
 - `game_data.json`: Saves your progress (coins, high score, powerup levels)
-
-## Contributing
-
-Feel free to fork this project and submit pull requests with improvements or new features! 
