@@ -21,7 +21,7 @@ pip install colorama numpy
 
 1. Run the game:
 ```bash
-python cursor_additions.py
+python obstacle_dodger.py
 ```
 
 2. Controls:
@@ -94,5 +94,6 @@ Feel free to enhance the game! Some ideas:
 - Add different difficulty modes
 
 ## License
+
 
 This project is open source and available under the MIT License. 
