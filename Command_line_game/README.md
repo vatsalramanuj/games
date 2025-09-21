@@ -84,16 +84,4 @@ Command_line_game/
     └── [player_name].txt # Individual score files
 ```
 
-## Development
 
-Feel free to enhance the game! Some ideas:
-- Add different obstacle patterns
-- Implement power-ups
-- Add sound effects (using console beeps)
-- Create a high score display
-- Add different difficulty modes
-
-## License
-
-
-This project is open source and available under the MIT License. 
